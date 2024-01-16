@@ -5,10 +5,6 @@ var cors = require('cors');
 connectToMongo();
 var app = express();
 app.use(cors());  
-// app.use('/*', (req, res, next)=>{
-//     console.log("jhgvc");
-//     next();
-// }) 
 const port = 3000;
 
 //route
