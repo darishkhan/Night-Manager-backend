@@ -2,7 +2,7 @@
 
 - Only author can create posts as only he knows the secret, while any one can read the daily entries.
 
-Backend repo : https://github.com/darishkhan/Night-Manager-frontend
+Frontend repo : https://github.com/darishkhan/Night-Manager-frontend
 
 ### Hosted on : Render
 access here : https://homodeus.club
